@@ -131,19 +131,8 @@ IN-MDSumFormer integrates:
 
 ### Main Benchmark Results
 
-| Rank | Model | ROUGE-1 | ROUGE-2 | ROUGE-L | BERTScore | Params |
-|------|-------|---------|---------|---------|-----------|--------|
-| 1 | Mixtral-8x7B-Instruct | **0.5019** | **0.2623** | **0.3447** | **0.8782** | 47B |
-| 2 | PRIMERA | 0.4604 | 0.2044 | 0.2928 | 0.6792 | 406M |
-| 3 | LED-base | 0.4498 | 0.2091 | 0.2925 | 0.6674 | 406M |
-| 4 | LLaMA-3-8B | 0.4300 | 0.2000 | 0.2900 | 0.8900 | 8B |
-| 5 | Gemma-2-9B-Instruct | 0.4200 | 0.1900 | 0.2800 | 0.8500 | 9B |
-| **6** | **IN-MDSumFormer** | **0.4016** | **0.1727** | **0.2653** | **0.7981** | **770M** |
-| 7 | LongT5-base | 0.3900 | 0.1750 | 0.2700 | 0.7200 | 248M |
-| 8 | Qwen2-7B-Instruct | 0.3800 | 0.1700 | 0.2650 | 0.8700 | 7B |
-| 9 | Mistral-7B-Instruct | 0.3700 | 0.1650 | 0.2600 | 0.8600 | 7B |
-| 10 | Flan-T5-XL | 0.3500 | 0.1550 | 0.2500 | 0.8700 | 3B |
-| 11 | Flan-T5-Large (base) | 0.3193 | 0.1538 | 0.2289 | 0.6379 | 770M |
+<img width="1590" height="1190" alt="benchmark" src="https://github.com/user-attachments/assets/ada64e55-1482-438f-ac06-a0fc0ae6c455" />
+
 
 ### Performance Highlights
 
